@@ -5,7 +5,10 @@ Full project Demo
 
 ![instanthyre](https://github.com/tusharjain365/Instanthyre/assets/75572829/e073d96a-7acc-4627-9562-033e67169539)
 
-
+## How to Run project
+1. Clone the Repository
+2. Do a quick  `npm install`
+3. Run `npm run dev` and that's it! 
 
 # React + Vite
 
